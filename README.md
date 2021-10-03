@@ -3,7 +3,7 @@ A Web development project built using HTML,CSS. This is a well built User Interf
 
 
 ## HOW TO ACCESS
- - Click on the link to open the webiste
+ - Click on the link to open the webiste   https://yayady1999.github.io/Sports-Website-UI/
 - Once it opens , check the UI and see the design and animations.
 - Have Fun
 
